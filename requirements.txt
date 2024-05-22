@@ -1,0 +1,11 @@
+requests
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+pytest
+flake8
+black
+mypy
+jupyter
